@@ -1,0 +1,3 @@
+#! /bin/bash
+echo number your name 
+read n 
